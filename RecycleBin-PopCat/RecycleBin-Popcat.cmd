@@ -46,14 +46,21 @@ IF %mode% equ 1 goto DefaultSetting
 IF %mode% equ 2 goto PopcatSetting
 
 echo Your setting is %mode%, Unknown Mode.
-pause
+echo Exits in 5 seconds.
+echo.
+echo.
+timeout 5 >nul
+exit
 
 :BlockVersion
 echo.
 echo.
 echo This program has only been tested in Windows 10 versions, so you cannot run any further versions.
+echo Exits in 5 seconds.
 echo.
-pause
+echo.
+timeout 5 >nul
+exit
 
 :DefaultSetting
 echo.
@@ -65,9 +72,11 @@ echo.
 echo.
 echo The operation completed successfully. Go to the desktop and do F5. Or Click the RecycleBin.
 echo %ESC%[100mMode: Default%ESC%[0m
+echo Exits in 5 seconds.
 echo.
 echo.
-pause
+timeout 5 >nul
+exit
 
 :PopcatSetting
 echo.
@@ -82,8 +91,10 @@ echo.
 echo.
 echo The operation completed successfully. Go to the desktop and do F5. Or Click the RecycleBin.
 echo %ESC%[100mMode: Popcat%ESC%[0m
+echo Exits in 5 seconds.
 echo.
 echo.
-pause
+timeout 5 >nul
+exit
 
 pause>nul
