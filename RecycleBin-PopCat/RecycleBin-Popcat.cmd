@@ -17,8 +17,8 @@ echo                                "Y88P"
 echo.
 echo Author: dev-ys-36 ^| Sahmyook Univ. CE. 22.
 echo Github: dev-ys-36 ^| https://github.com/dev-ys-36/RecycleBin-Popcat
-echo License: MIT ^| https://github.com/dev-ys-36/RecyleBin-Popcat/blob/main/LICENSE
-echo ReadMe: HOW TO USE ^| https://github.com/dev-ys-36/RecyleBin-Popcat/blob/main/README.md
+echo License: MIT ^| https://github.com/dev-ys-36/RecycleBin-Popcat/blob/main/LICENSE
+echo ReadMe: HOW TO USE ^| https://github.com/dev-ys-36/RecycleBin-Popcat/blob/main/README.md
 echo Version: 1.0.0v ^| First Released.
 echo.
 echo The copyright indication and this authorization indication shall be
