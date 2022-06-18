@@ -1,10 +1,10 @@
-# RecyleBin-Popcat
+# RecycleBin-Popcat
 This program lets you change the RecycleBin icon!
 
 휴지통 아이콘을 깜찍하게 바꿔보자! ( by Popcat )
 
-![Full](https://github.com/dev-ys-36/RecyleBin-Popcat/blob/main/RecycleBin-PopCat/icon/1.ico) - Full
-![Empty](https://github.com/dev-ys-36/RecyleBin-Popcat/blob/main/RecycleBin-PopCat/icon/2.ico) - Empty
+![Full](https://github.com/dev-ys-36/RecycleBin-Popcat/blob/main/RecycleBin-PopCat/icon/1.ico) - Full
+![Empty](https://github.com/dev-ys-36/RecycleBin-Popcat/blob/main/RecycleBin-PopCat/icon/2.ico) - Empty
 <br>
 <br>
 # 경고
@@ -22,4 +22,4 @@ RecycleBin-Popcat.cmd 파일 실행 후 1 또는 2를 입력하여 휴지통 아
 
 설정을 완료했다면 바탕화면에서 F5를 통해 새로고침 하거나 휴지통을 눌러보세요!
 
-![](https://github.com/dev-ys-36/RecyleBin-Popcat/blob/main/RecycleBin-PopCat/gif/change.gif)
+![](https://github.com/dev-ys-36/RecycleBin-Popcat/blob/main/RecycleBin-PopCat/gif/change.gif)
